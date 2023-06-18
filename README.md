@@ -2,7 +2,7 @@
 <h3 align="center">A data visualization enthusiast from the Philippines</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif">
 
-- 🔭 I’m currently working on [Existing Renewable Projects and its GHG Potential and Emission Dashboard](https://tinyurl.com/2knschww)>
+- 🔭 I’m currently working on [Existing Renewable Projects and its GHG Potential and Emission Dashboard](https://tinyurl.com/2knschww)
 
 - 🌱 I’m currently learning **Advanced Data Analysis and Visualization**
 
@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **arjay.hosmillo@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/19C2hyKGzzhwSRNokDWxzfSSBcEWm1yH1/view?usp=sharing](https://drive.google.com/file/d/19C2hyKGzzhwSRNokDWxzfSSBcEWm1yH1/view?usp=sharing)
+- 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/19C2hyKGzzhwSRNokDWxzfSSBcEWm1yH1/view?usp=sharing](https://drive.google.com/file/d/19C2hyKGzzhwSRNokDWxzfSSBcEWm1yH1/view?usp=sharing))
 
 - ⚡ Fun fact **I love to listen glee music albums and play Pokemon Go**
 
