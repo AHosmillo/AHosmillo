@@ -10,13 +10,13 @@
 
 - 🤝 I’m looking for help with [the Improvement of PH Existing Power Plants Data Visualization Dashboard](https://tinyurl.com/PHGrids)
 
-- 💬 Ask me about **Data Visualization, Database Management, Data Analysis, Microsoft Power Bi**
+- 💬 Ask me about **Data Scraping · Data Mining · Visualization · ETL · Data Analysis · Microsoft Power BI · Microsoft Excel · Research · Environment Sustainability · ESG · Environment Compliance**
 
 - 📫 How to reach me **arjay.hosmillo@gmail.com**
 
-- 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/19C2hyKGzzhwSRNokDWxzfSSBcEWm1yH1/view?usp=sharing](https://drive.google.com/file/d/19C2hyKGzzhwSRNokDWxzfSSBcEWm1yH1/view?usp=sharing))
+- 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1Md6wdSY-SkxT2wPVVPHXGx39Bu_bs2dw/view?usp=sharing))
 
-- ⚡ Fun fact **I love to listen glee music albums and play Pokemon Go**
+- ⚡ Fun fact **I’m also a passionate volunteer; a Climate Reality Leader under Climate Reality Project – PH and former Data Analyst volunteer for UN SDSN-PH and ClimatEducate Project**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
