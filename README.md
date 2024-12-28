@@ -2,7 +2,7 @@
 <h3 align="center">A data visualization enthusiast from the Philippines</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif">
 
-- 🔭 I’m currently working on [Existing Renewable Projects and its GHG Potential and Emission Dashboard](https://tinyurl.com/2knschww)
+- 🔭 I’m currently working on [Existing Renewable Projects and its GHG Potential and Emission Dashboard](https://tinyurl.com/2knschww) and [Plastic Diversion Monitoring Project](https://app.powerbi.com/view?r=eyJrIjoiZjQzYmRkOTItY2Y5Yy00ZjU1LTgxOGYtYjFhYTU4MjY4ODkzIiwidCI6ImFhMWY3MmNiLTZhNzQtNGI5NC04MzVmLTU4ZmRjODRhYTFlOCIsImMiOjEwfQ%3D%3D).
 
 - 🌱 I’m currently learning **Advanced Data Analysis and Visualization**
 
