@@ -4,17 +4,17 @@
 
 - 🔭 I’m currently working on [Existing Renewable Projects and its GHG Potential and Emission Dashboard](https://tinyurl.com/2knschww) and [Plastic Diversion Monitoring Project](https://app.powerbi.com/view?r=eyJrIjoiZjQzYmRkOTItY2Y5Yy00ZjU1LTgxOGYtYjFhYTU4MjY4ODkzIiwidCI6ImFhMWY3MmNiLTZhNzQtNGI5NC04MzVmLTU4ZmRjODRhYTFlOCIsImMiOjEwfQ%3D%3D)
 
-- 🌱 I’m currently learning **Advanced Data Analysis and Visualization**
+- 🌱 I’m currently flourishing my **Advanced Data Analysis and Visualization** skills
 
 - 👯 I’m looking to collaborate on [Air Quality Index Data Visualization Dashboard](https://bit.ly/3nE9RM6)
 
-- 🤝 I’m looking for help with [the Improvement of PH Existing Power Plants Data Visualization Dashboard](https://tinyurl.com/PHGrids)
+- 🤝 I’m looking for help with the [Improvement of PH Existing Power Plants Data Visualization Dashboard](https://tinyurl.com/PHGrids)
 
 - 💬 Ask me about **Data Scraping · Data Mining · Visualization · ETL · Data Analysis · Microsoft Power BI · Microsoft Excel · Research · Environment Sustainability · ESG · Environment Compliance**
 
 - 📫 How to reach me **arjay.hosmillo@gmail.com**
 
-- 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1Md6wdSY-SkxT2wPVVPHXGx39Bu_bs2dw/view?usp=sharing)
+- 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/14kjLHgDrrKkXqzz1MLdjIUzSoexPTeaR/view?usp=sharing)
 
 - ⚡ Fun fact **I’m also a passionate volunteer; a Climate Reality Leader under Climate Reality Project – PH and former Data Analyst volunteer for UN SDSN-PH and ClimatEducate Project**
 
